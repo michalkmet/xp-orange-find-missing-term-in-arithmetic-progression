@@ -12,4 +12,4 @@ Pomodoro 1:
 
 - ✅ DONE initial refactor
 - ✅ DONE Examples
-- ⚠ TODO User stories + Uats
+- 🚧 IN PROGRESS User stories + Uats
