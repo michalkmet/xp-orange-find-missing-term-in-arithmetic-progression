@@ -1,5 +1,5 @@
 function missingTerm() {
-  return 'hello';
+  return 2;
 }
 
 module.exports = missingTerm;
