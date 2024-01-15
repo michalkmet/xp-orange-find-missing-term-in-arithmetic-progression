@@ -26,13 +26,17 @@ Pomodoro 2:
 - ✅ DONE UAT1.3: When I pass [1, 4, 10] then I should see 7
 - ✅ DONE UAT1.4: When I pass [1, 3, 4] then I should see 2
 
+Pomodoro 3:
+
+- ✅ DONE Refactor
+
 User Story 2: List with 4 numbers
 As a user, I want to see correct result for list with 4 numbers
 
-UAT2.1 When I pass [2, 3, 4, 6] then I should see 5
-UAT2.2 When I pass [2, 4, 6, 10] then I should see 8
-UAT2.3 When I pass [1, 4, 7, 13] then I should see 10
-UAT2.4 When I pass [1, 2, 3, 5] then I should see 4
+- ✅ DONE UAT2.1 When I pass [2, 3, 4, 6] then I should see 5
+  UAT2.2 When I pass [2, 4, 6, 10] then I should see 8
+  UAT2.3 When I pass [1, 4, 7, 13] then I should see 10
+  UAT2.4 When I pass [1, 2, 3, 5] then I should see 4
 
 User Story 3: List with 5 numbers
 As a user, I want to see correct result for list with 5 numbers

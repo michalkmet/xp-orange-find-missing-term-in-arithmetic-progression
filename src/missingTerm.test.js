@@ -14,3 +14,9 @@ describe('User Story 1: List with 3 numbers', () => {
     expect(missingTerm([1, 3, 4])).toBe(2);
   });
 });
+
+describe('User Story 2: List with 4 numbers', () => {
+  it('UAT2.1 When I pass [2, 3, 4, 6] then I should see 5', () => {
+    expect(missingTerm([2, 3, 4, 6])).toBe(5);
+  });
+});
