@@ -36,10 +36,10 @@ Pomodoro 3:
 - ✅ DONE UAT2.1 When I pass [2, 3, 4, 6] then I should see 5
 - ✅ DONE UAT2.2 When I pass [2, 4, 6, 10] then I should see 8
 - ✅ DONE UAT2.3 When I pass [1, 4, 7, 13] then I should see 10
-- 🚧 IN PROGRESS UAT2.4 When I pass [1, 2, 3, 5] then I should see 4
+- ✅ DONE UAT2.4 When I pass [1, 2, 3, 5] then I should see 4
 
-User Story 3: List with 5 numbers
-As a user, I want to see correct result for list with 5 numbers
+- 🚧 IN PROGRESS User Story 3: List with 5 numbers
+  As a user, I want to see correct result for list with 5 numbers
 
-UAT3.1 When I pass [1, 3, 5, 9, 11] then I should see 7
-UAT3.2 When I pass [1, 3, 7, 9, 11, 14] then I should see 5
+- ✅ DONE UAT3.1 When I pass [1, 3, 5, 9, 11] then I should see 7
+  UAT3.2 When I pass [1, 3, 7, 9, 11, 14] then I should see 5
