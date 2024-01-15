@@ -19,4 +19,7 @@ describe('User Story 2: List with 4 numbers', () => {
   it('UAT2.1 When I pass [2, 3, 4, 6] then I should see 5', () => {
     expect(missingTerm([2, 3, 4, 6])).toBe(5);
   });
+  it('UAT2.2 When I pass [2, 4, 6, 10] then I should see 8', () => {
+    expect(missingTerm([2, 4, 6, 10])).toBe(8);
+  });
 });
