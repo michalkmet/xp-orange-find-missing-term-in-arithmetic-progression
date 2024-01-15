@@ -42,4 +42,4 @@ Pomodoro 3:
   As a user, I want to see correct result for list with 5 numbers
 
 - ✅ DONE UAT3.1 When I pass [1, 3, 5, 9, 11] then I should see 7
-  UAT3.2 When I pass [1, 3, 7, 9, 11, 14] then I should see 5
+- ✅ DONE UAT3.2 When I pass [1, 3, 7, 9, 11, 14] then I should see 5
