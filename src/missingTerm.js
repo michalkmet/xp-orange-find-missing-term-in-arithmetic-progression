@@ -1,8 +1,6 @@
 function missingTerm(list) {
-  const lowest = list[0];
-  const highest = list[2];
-  const division = Math.round(list[2] / list.length);
-  console.log('lowest: ', lowest);
+  const highest = list[list.length - 1];
+  const division = Math.floor(highest / list.length);
   console.log('highest: ', highest);
   console.log('division: ', division);
 
