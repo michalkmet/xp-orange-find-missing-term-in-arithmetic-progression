@@ -17,7 +17,7 @@ PS: This is a sample question of the facebook engineer challenge on interviewstr
 ## Examples
 
 Example 1:
-findMissing([0, 1, 3]) == 2
+findMissing([1, 2, 4]) == 3
 
 Example 2:
 findMissing([1, 5, 7]) == 3

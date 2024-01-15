@@ -18,13 +18,13 @@ Pomodoro 1:
 - 🚧 IN PROGRESS User Story 1: List with 3 numbers
   As a user, I want to see correct result for list with 3 numbers
 
-- ✅ DONE UAT1.1 When I pass [0, 1, 3] then I should see 2
+- ✅ DONE UAT1.1 When I pass [1, 2, 4] then I should see 3
 - ✅ DONE UAT1.2: When I pass [1, 5, 7] then I should see 3
 
 Pomodoro 2:
 
 - ✅ DONE UAT1.3: When I pass [1, 4, 10] then I should see 7
-  UAT1.4: When I pass [1, 3, 4] then I should see 2
+- ✅ DONE UAT1.4: When I pass [1, 3, 4] then I should see 2
 
 User Story 2: List with 4 numbers
 As a user, I want to see correct result for list with 4 numbers
