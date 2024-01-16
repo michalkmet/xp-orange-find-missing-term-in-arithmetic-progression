@@ -45,3 +45,12 @@ findMissing([1, 3, 5, 9, 11]) == 7
 
 Example 10:
 findMissing([1, 3, 7, 9, 11, 14]) == 5
+
+Example 11:
+findMissing([-4, -3, -1]) == -2
+
+Example 12:
+findMissing([-8, -4, -2]) == -6
+
+Example 13:
+findMissing([-13, -10 , -7, -1]) == -4
