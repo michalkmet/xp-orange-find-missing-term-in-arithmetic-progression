@@ -51,5 +51,5 @@ Pomodoro 4:
 - 🚧 IN PROGRESS User Story 4: List with negative numbers
   As a user, I want to see correct result for list with negative numbers
 - ✅ DONE UAT4.1 When I pass [-4, -3, -1] then I should see -2
-  UAT4.2 When I pass [-8, -4, -2] then I should see -6
+- ✅ DONE UAT4.2 When I pass [-8, -4, -2] then I should see -6
   UAT4.3 When I pass [-13, -10 , -7, -1] then I should see -4
