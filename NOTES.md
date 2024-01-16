@@ -52,4 +52,4 @@ Pomodoro 4:
   As a user, I want to see correct result for list with negative numbers
 - ✅ DONE UAT4.1 When I pass [-4, -3, -1] then I should see -2
 - ✅ DONE UAT4.2 When I pass [-8, -4, -2] then I should see -6
-  UAT4.3 When I pass [-13, -10 , -7, -1] then I should see -4
+- ✅ DONE UAT4.3 When I pass [-13, -10 , -7, -1] then I should see -4

@@ -46,4 +46,7 @@ describe('User Story 4: List with negative numbers', () => {
   it('UAT4.2 When I pass [-8, -4, -2] then I should see -6', () => {
     expect(missingTerm([-8, -4, -2])).toBe(-6);
   });
+  it('UAT4.3 When I pass [-13, -10 , -7, -1] then I should see -4', () => {
+    expect(missingTerm([-13, -10, -7, -1])).toBe(-4);
+  });
 });
