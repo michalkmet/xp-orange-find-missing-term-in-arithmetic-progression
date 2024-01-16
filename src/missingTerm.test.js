@@ -38,3 +38,9 @@ describe('User Story 3: List with 5 numbers', () => {
     expect(missingTerm([1, 3, 7, 9, 11, 14])).toBe(5);
   });
 });
+
+describe('User Story 4: List with negative numbers', () => {
+  it('UAT4.1 When I pass [-4, -3, -1] then I should see -2', () => {
+    expect(missingTerm([-4, -3, -1])).toBe(-2);
+  });
+});

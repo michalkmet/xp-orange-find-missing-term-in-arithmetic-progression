@@ -30,7 +30,7 @@ Pomodoro 3:
 
 - ✅ DONE Refactor
 
-- 🚧 IN PROGRESS User Story 2: List with 4 numbers
+- ✅ DONE User Story 2: List with 4 numbers
   As a user, I want to see correct result for list with 4 numbers
 
 - ✅ DONE UAT2.1 When I pass [2, 3, 4, 6] then I should see 5
@@ -48,9 +48,8 @@ Pomodoro 4:
 
 - ✅ DONE - create tests for negative numbers
 
-- User Story 4: List with negative numbers
+- 🚧 IN PROGRESS User Story 4: List with negative numbers
   As a user, I want to see correct result for list with negative numbers
-
-UAT4.1 When I pass [-4, -3, -1] then I should see -2
-UAT4.2 When I pass [-8, -4, -2] then I should see -6
-UAT4.3 When I pass [-13, -10 , -7, -1] then I should see -4
+- ✅ DONE UAT4.1 When I pass [-4, -3, -1] then I should see -2
+  UAT4.2 When I pass [-8, -4, -2] then I should see -6
+  UAT4.3 When I pass [-13, -10 , -7, -1] then I should see -4
