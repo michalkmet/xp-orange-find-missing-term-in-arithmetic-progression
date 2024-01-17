@@ -64,3 +64,10 @@ Pomodoro 5:
 
 - ✅ DONE UAT5.1 When I pass [-1, 0, 2] then I should see 1
 - 🚧 IN PROGRESS UAT5.2 When I pass [-2, 0, 4] then I should see 2
+- ✅ DONE UAT5.3 When I pass [-2, -1, 1] then I should see 0
+- ⚠ TODO UAT5.4 When I pass [-8, 0, 4] then I should see -4
+
+1,2,4 - 4/3 = 1,33
+0,1,4 - 4/3 = 1,33
+-2,0,4 - 4/3 = 1,33 zle
+-8,0,4 - 4/3 = 1,33 zle

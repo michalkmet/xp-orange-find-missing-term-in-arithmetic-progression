@@ -61,4 +61,7 @@ describe('User Story 5: List with negative numbers and positive numbers', () => 
   it('UAT5.3 When I pass [-2, -1, 1] then I should see 0', () => {
     expect(missingTerm([-2, -1, 1])).toBe(0);
   });
+  it('UAT5.4 When I pass [-8, 0, 4] then I should see -4', () => {
+    expect(missingTerm([-8, 0, 4])).toBe(-4);
+  });
 });
