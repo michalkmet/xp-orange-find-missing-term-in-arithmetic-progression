@@ -54,3 +54,9 @@ findMissing([-8, -4, -2]) == -6
 
 Example 13:
 findMissing([-13, -10 , -7, -1]) == -4
+
+Example 14:
+findMissing([-1, 0, 2]) == 1
+
+Example 15:
+findMissing([-2, 0, 4]) == 2
