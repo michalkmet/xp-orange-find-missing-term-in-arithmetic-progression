@@ -50,3 +50,9 @@ describe('User Story 4: List with negative numbers', () => {
     expect(missingTerm([-13, -10, -7, -1])).toBe(-4);
   });
 });
+
+describe('User Story 5: List with negative numbers and positive numbers', () => {
+  it('UAT5.1 When I pass [-1, 0, 2] then I should see 1', () => {
+    expect(missingTerm([-1, 0, 2])).toBe(1);
+  });
+});
