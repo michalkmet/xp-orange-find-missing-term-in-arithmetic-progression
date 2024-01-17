@@ -60,3 +60,6 @@ findMissing([-1, 0, 2]) == 1
 
 Example 15:
 findMissing([-2, 0, 4]) == 2
+
+Example 16:
+findMissing([-2, -1, 1]) == 0

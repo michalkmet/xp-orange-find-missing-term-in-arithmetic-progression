@@ -36,3 +36,4 @@ As a user, I want to see correct result for list with negative and positive numb
 
 UAT5.1 When I pass [-1, 0, 2] then I should see 1
 UAT5.2 When I pass [-2, 0, 4] then I should see 2
+UAT5.3 When I pass [-2, -1, 1] then I should see 0
