@@ -71,3 +71,4 @@ Pomodoro 6:
 
 - ✅ DONE update the highest/division func
 - ✅ DONE UAT5.2 When I pass [-2, 0, 4] then I should see 2
+- ✅ DONE new Uats

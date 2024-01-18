@@ -38,3 +38,9 @@ UAT5.1 When I pass [-1, 0, 2] then I should see 1
 UAT5.2 When I pass [-2, 0, 4] then I should see 2
 UAT5.3 When I pass [-2, -1, 1] then I should see 0
 UAT5.4 When I pass [-8, 0, 4] then I should see -4
+
+User Story 6: List with large negative numbers
+As a user, I want to see correct result for list with large negative numbers
+
+UAT6.1 When I pass [-6, -20, -27] then I should see -13
+UAT6.2 When I pass [-7, -8, -9, -10, -11, -12, -13, -14, -15, -17, -18, -19, -20] then I should see -16
