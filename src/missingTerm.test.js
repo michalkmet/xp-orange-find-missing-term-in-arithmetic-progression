@@ -70,4 +70,7 @@ describe('User Story 6: List with large negative numbers', () => {
   it('UAT6.1 When I pass [-6, -20, -27] then I should see -13', () => {
     expect(missingTerm([-6, -20, -27])).toBe(-13);
   });
+  it('UAT6.2 When I pass [-7, -8, -9, -10, -11, -12, -13, -14, -15, -17, -18, -19, -20] then I should see -16', () => {
+    expect(missingTerm([-7, -8, -9, -10, -11, -12, -13, -14, -15, -17, -18, -19, -20])).toBe(-16);
+  });
 });
