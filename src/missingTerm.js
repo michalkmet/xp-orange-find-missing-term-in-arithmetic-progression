@@ -2,6 +2,8 @@ function missingTerm(list) {
   list.sort((a, b) => a - b);
   const highest = getHighestNum(list);
   const division = getDivision(list, highest);
+  console.log('highest: ', highest);
+  console.log('division: ', division);
   for (let i = 0; i < list.length; i++) {
     if (list[i] + division != list[i + 1]) {
       return list[i] + division;

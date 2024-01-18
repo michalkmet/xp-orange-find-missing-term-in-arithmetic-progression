@@ -74,3 +74,9 @@ describe('User Story 6: List with large negative numbers', () => {
     expect(missingTerm([-7, -8, -9, -10, -11, -12, -13, -14, -15, -17, -18, -19, -20])).toBe(-16);
   });
 });
+
+describe('User Story 7: List with random numbers', () => {
+  it('UAT7.1 When I pass [8, 16, 20] then I should see 12', () => {
+    expect(missingTerm([8, 16, 20])).toBe(12);
+  });
+});
