@@ -67,11 +67,6 @@ Pomodoro 5:
 - ✅ DONE UAT5.3 When I pass [-2, -1, 1] then I should see 0
 - ⚠ TODO UAT5.4 When I pass [-8, 0, 4] then I should see -4
 
-1,2,4 - 4/3 = 1,33 ...
-0,1,4 - 4/3 = 1,33
--2,0,4 - 4/3 = 1,33 zle 6/3 = 2
--8,0,4 - 4/3 = 1,33 zle 12/3 = 4
-
 Pomodoro 6:
 
 - ✅ DONE update the highest/division func
