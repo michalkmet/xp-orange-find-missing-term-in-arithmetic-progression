@@ -72,3 +72,24 @@ findMissing([-6, -20, -27]) == -13
 
 Example 19:
 findMissing([-7, -8, -9, -10, -11, -12, -13, -14, -15, -17, -18, -19, -20]) == -16
+
+Example 20:
+findMissing([ 8, 16, 20 ]) == 14
+
+Example 21:
+findMissing([ 3, 23, 33 ]) == 13
+
+Example 21:
+findMissing([ 16, 33, 50, 67, 84, 101, 118, 152, 169, 186, 203, 220, 237 ]) == 135
+
+Example 22:
+findMissing([ 14, 34, 54, 74, 94, 114, 134, 154, 174, 194, 234 ]) == 214
+
+Example 23:
+findMissing([ 37, 47, 52 ]) == 54
+
+Example 24:
+findMissing([ 45, 58, 71, 84, 97, 110, 123, 149, 162, 175, 188 ]) == 136
+
+Example 25:
+findMissing([ 40, 34, 22 ]) == 28

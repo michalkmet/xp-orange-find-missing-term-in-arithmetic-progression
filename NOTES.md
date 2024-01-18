@@ -80,3 +80,5 @@ As a user, I want to see correct result for list with large negative numbers
 
 - ✅ DONE UAT6.1 When I pass [-6, -20, -27] then I should see -13
 - ✅ DONE UAT6.2 When I pass [-7, -8, -9, -10, -11, -12, -13, -14, -15, -17, -18, -19, -20] then I should see -16
+
+- ✅ DONE Examples & uats
