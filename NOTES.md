@@ -91,7 +91,7 @@ As a user, I want to see correct result for list with large negative numbers
 Pomodoro 8:
 
 - ✅ DONE UAT7.1 When I pass [8, 16, 20] then I should see 12
-  UAT7.2 When I pass [3, 23, 33] then I should see 13
+- ✅ DONE UAT7.2 When I pass [3, 23, 33] then I should see 13
   UAT7.3 When I pass [ 16, 33, 50, 67, 84, 101, 118, 152, 169, 186, 203, 220, 237 ] then I should see 135
   UAT7.4 When I pass [ 14, 34, 54, 74, 94, 114, 134, 154, 174, 194, 234 ] then I should see 214
   UAT7.5 When I pass [ 37, 47, 52 ] then I should see 54

@@ -79,4 +79,7 @@ describe('User Story 7: List with random numbers', () => {
   it('UAT7.1 When I pass [8, 16, 20] then I should see 12', () => {
     expect(missingTerm([8, 16, 20])).toBe(12);
   });
+  it('UAT7.2 When I pass [3, 23, 33] then I should see 13', () => {
+    expect(missingTerm([3, 23, 33])).toBe(13);
+  });
 });
