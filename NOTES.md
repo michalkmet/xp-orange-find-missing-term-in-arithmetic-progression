@@ -95,5 +95,5 @@ Pomodoro 8:
 - ✅ DONE UAT7.3 When I pass [ 16, 33, 50, 67, 84, 101, 118, 152, 169, 186, 203, 220, 237 ] then I should see 135
 - ✅ DONE UAT7.4 When I pass [ 14, 34, 54, 74, 94, 114, 134, 154, 174, 194, 234 ] then I should see 214
 - ✅ DONE UAT7.5 When I pass [ 37, 47, 52 ] then I should see 42
-  UAT7.6 When I pass [ 45, 58, 71, 84, 97, 110, 123, 149, 162, 175, 188 ] then I should see 136
-  UAT7.7 When I pass [ 40, 34, 22 ] then I should see 28
+- ✅ DONE UAT7.6 When I pass [ 45, 58, 71, 84, 97, 110, 123, 149, 162, 175, 188 ] then I should see 136
+- ✅ DONE UAT7.7 When I pass [ 40, 34, 22 ] then I should see 28
