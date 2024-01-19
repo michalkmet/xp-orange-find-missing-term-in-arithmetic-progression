@@ -88,4 +88,7 @@ describe('User Story 7: List with random numbers', () => {
   it('UAT7.3 When I pass [ 14, 34, 54, 74, 94, 114, 134, 154, 174, 194, 234] then I should see 214', () => {
     expect(missingTerm([14, 34, 54, 74, 94, 114, 134, 154, 174, 194, 234])).toBe(214);
   });
+  it('UAT7.5 When I pass [ 37, 47, 52 ] then I should see 42', () => {
+    expect(missingTerm([37, 47, 52])).toBe(42);
+  });
 });
